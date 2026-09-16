@@ -6,7 +6,7 @@
 ========================================== */
 
 const CONFIG = {
-  email: "YOUR_EMAIL@gmail.com"
+  email: "gupta.sachinkumar87@gmail.com"
 };
 
 
